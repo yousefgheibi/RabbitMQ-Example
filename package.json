@@ -1,0 +1,23 @@
+{
+  "name": "rabbitmq-example",
+  "version": "1.0.0",
+  "description": "Publisher and Consumer program with example in nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yousefgheibi/RabbitMQ-Example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yousefgheibi/RabbitMQ-Example/issues"
+  },
+  "homepage": "https://github.com/yousefgheibi/RabbitMQ-Example#readme",
+  "dependencies": {
+    "amqplib": "^0.8.0"
+  }
+}
